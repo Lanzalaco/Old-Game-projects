@@ -6,4 +6,4 @@ Breakout. Changes to graphic (screen update) written in 6502 Assembler. Main Pro
 
 "The House" -  Adventure game written in Amsoft Basic. Was requested to commercial project.  Calls to sound engine via direct register addressing
 
-Source Code still to be transcribed from paper logs
+NOTE: Source Code not available yet. Still to be transcribed from paper logs
